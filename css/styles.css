@@ -319,7 +319,6 @@ input {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin-left: 16px;
 }
 
 .sec-four-title {
@@ -503,6 +502,9 @@ input {
   text-align: center;
   color: #fff;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subscribe-icon {
+  margin-left: 16px;
 }
 .subscribe-button:hover,
 .subscribe-button:focus {

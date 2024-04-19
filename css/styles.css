@@ -714,6 +714,7 @@ input {
 }
 
 .modal-btn {
+  font-family: "Roboto", sans-serif;
   display: block;
   border-radius: 4px;
   min-width: 169px;
